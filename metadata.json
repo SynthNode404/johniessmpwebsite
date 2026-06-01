@@ -1,0 +1,6 @@
+{
+  "name": "Johnies SMP",
+  "description": "The official clean, simple web portal for Johnies SMP, showcasing live server status, connection metrics, rules, staff, and major events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
